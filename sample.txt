@@ -1,0 +1,20 @@
+✅ Sample "Not Spam" Messages
+"Hey, are we still meeting for lunch at 1?"
+
+"Your OTP is 543210. Do not share it with anyone."
+
+"Happy Birthday! 🎉 Have an amazing year ahead."
+
+"Please find the attached report for this week's performance."
+
+"Dad, I’ll be home by 8 PM. Don’t worry."
+
+🚫 Sample "Spam" Messages:
+
+"Congratulations! You’ve won a ₹10,00,000 lottery. Claim now: bit.ly/winlotto"
+
+"You have been selected for a free vacation! Call now: 1800-123-4567"
+
+"URGENT! Your account is blocked. Click here to verify details: fakebank.com"
+
+
