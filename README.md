@@ -1,4 +1,4 @@
-# SmS_Spam_Classifier
+# SMS_Spam_Classifier
 
 Certainly, here are the step-by-step instructions for setting up and running the application using a virtual environment for Python 3.9:
 
